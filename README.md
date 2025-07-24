@@ -24,7 +24,14 @@ A simple web-based employee management system using Node.js, Express, MongoDB, a
 - **Auth & Security**: `express-session`, `bcryptjs`
 
 ---
+## 📸 Screenshots
+<img width="1212" height="728" alt="image" src="https://github.com/user-attachments/assets/90fc061e-cc53-4b81-b683-d7341062bc1a" />
+<img width="1912" height="862" alt="image" src="https://github.com/user-attachments/assets/6ebd465c-12b1-429e-9ed9-c28139170ea3" />
 
+
+
+
+---
 ## ⚙️ Setup Instructions
 
 1. **Clone the project**:
